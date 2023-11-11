@@ -1,0 +1,156 @@
+[
+    {
+        "id":1,
+        "title": "Une terre promise",
+        "author": "Barack Obama",
+        "description": "Le premier volume des mémoires présidentiels de Barack Obama relate son extraordinaire parcours, depuis ses débuts en politique jusqu’à son élection historique en tant que 44e président des États-Unis. Le livre offre un aperçu intime des moments marquants de sa présidence, qu’il s’agisse de crises internationales, de réformes politiques majeures, ou de décisions difficiles prises dans les coulisses de la Maison-Blanche. Obama partage également ses réflexions personnelles sur les défis d’être le premier président afro-américain, les pressions familiales, et les moments de doute auxquels il a dû faire face. En somme, le livre explore la conviction profonde d’Obama selon laquelle la démocratie est un édifice construit jour après jour, reposant sur l’empathie et la compréhension mutuelle.",
+        "label": "",
+        "category": "Développement personnel",
+        "cover": "../../Book_Cover/Une terre promise.png",
+        "old-price": 2302.12,
+        "new-price": 1343.32
+    },
+    {
+        "id":2,
+        "title": "Devenir",
+        "author": "Michelle Obama",
+        "description": "Il y a encore tant de choses que j’ignore au sujet de l’Amérique, de la vie, et de ce que l’avenir nous réserve. Mais je sais qui je suis. Mon père, Fraser, m’a appris à travailler dur, à rire souvent et à tenir parole. Ma mère, Marian, à penser par moi-même et à faire entendre ma voix. Tous les deux ensemble, dans notre petit appartement du quartier du South Side de Chicago, ils m’ont aidée à saisir ce qui faisait la valeur de notre histoire, de mon histoire, et plus largement de l’histoire de notre pays. Même quand elle est loin d’être belle et parfaite. Même quand la réalité se rappelle à vous plus que vous ne l’auriez souhaité. Votre histoire vous appartient, et elle vous appartiendra toujours. À vous de vous en emparer.",
+        "label": "",
+        "category": "Développement personnel",
+        "cover": "../../Book_Cover/Devenir.png",
+        "old-price": 2302.12,
+        "new-price": 1343.32
+    },
+    {
+        "id":3,
+        "title": "Stress et anxiété",
+        "author": "Arianne Hébert",
+        "description": "",
+        "label": "Nouveau",
+        "category": "Épanouissement",
+        "cover": "../../Book_Cover/Stress et anxiété.png",
+        "old-price": 1829.59,
+        "new-price": 1183.45
+    },
+    {
+        "id":4,
+        "title": "L’art de séduction",
+        "author": "Robert Greene",
+        "description": "Explorez l’art intemporel de la séduction, un pouvoir qui transcende les époques et influence tant l’amour que la politique. Dans cette quête, nous plongeons dans les vies fascinantes de personnages historiques, de Freud à Casanova, pour extraire la quintessence de l’Art de la Séduction. Découvrez comment créer du désir, jouer avec les émotions en alternant entre le plaisir et la confusion, et vous faire désirer toujours plus. Tel un chef d’orchestre, exécutez les dernières notes de votre triomphe. De l’obscurité émerge une maîtrise subtile, une séduction qui va au-delà des mots, captivant ceux qui croisent votre chemin. Rejoignez cette exploration universelle, car, de l’amour à la politique, la séduction demeure un art inébranlable. Laissez-vous guider par les enseignements de Freud, Kierkegaard, Ovide et d’autres, pour maîtriser cet art intemporel.",
+        "label": "Spécial",
+        "category": "Érotique et Séduction",
+        "cover": "../../Book_Cover/L-art de séduction.png",
+        "old-price": 2884.31,
+        "new-price": 1874.80
+    },
+    {
+        "id":5,
+        "title": "La magie sexuelle",
+        "author": "Skye Alexander",
+        "description": "Découvrez l’alchimie enchanteresse de la magie sexuelle et de la loi de l’attraction. De manière pratique et accessible, l’auteure renommée et magicienne Skye Alexander vous guide à travers l’exploration de votre énergie sexuelle, révélant comment orienter cette force créatrice innée pour attirer la santé, la prospérité et le bonheur dans votre vie. Ce guide, aussi riche pour raviver la passion que pour exceller professionnellement, offre une pléiade étonnante de moyens pour embellir votre existence grâce à la magie sexuelle. Explorez les liens subtils entre sexualité, pouvoir, et magie, et plongez dans des rituels envoûtants, des formules magiques, des techniques collaboratives avec un partenaire, des visualisations envoûtantes, l’art de la séduction, les élixirs magiques, les amulettes, les talismans, et bien plus encore. Laissez-vous emporter par cette aventure magique, où chaque page dévoile des trésors cachés pour illuminer votre chemin vers une vie épanouissante.",
+        "label": "",
+        "category": "Érotique et Séduction",
+        "cover": "../../Book_Cover/La magie sexuelle.png",
+        "old-price": 2951.31,
+        "new-price": 1918.42
+    },
+    {
+        "id":6,
+        "title": "L’art de la guerre",
+        "author": "Nicholas Machiavele",
+        "description": "",
+        "label": "",
+        "category": "Autres",
+        "cover": "../../Book_Cover/L-art de la guerre.png",
+        "old-price": 1266.04,
+        "new-price": 633.59
+    },
+    {
+        "id":7,
+        "title": "La loi de l’attraction",
+        "author": "Esther et Jerry HICKS",
+        "description": "",
+        "label": "",
+        "category": "Spiritualités",
+        "cover": "../../Book_Cover/La loi de l-attraction.png",
+        "old-price": 2223.5,
+        "new-price": 1667.74
+    },
+    {
+        "id":8,
+        "title": "Le pouvoir et l’argent",
+        "author": "",
+        "description": "",
+        "label": "",
+        "category": "Autres",
+        "cover": "../../Book_Cover/Le pouvoir et l-argent.png",
+        "old-price": 2884.31,
+        "new-price": 1874.80
+    },
+    {
+        "id":9,
+        "title": "Une vie après la mort",
+        "author": "Jn Jacques Charbonier",
+        "description": "Cet ouvrage révolutionne la vision occidentale de la mort en démontrant de façon rationnelle que l’assimiler au néant absolu appartient désormais au domaine des croyances, car les preuves scientifiques confirment aujourd’hui notre propre immortalité. À travers de nombreux cas de mort imminente dont il fut le témoin priviligié dans le cadre de ses activités professionnelles et à la lumière de ses recherches personnelles, le Dr Charbonier nous fait partager ses convictions intimes sur l’existence d’une vie après la mort et sur les diverses possibilités de communication avec le monde de l’invisible.",
+        "label": "",
+        "category": "Autres",
+        "cover": "../../Book_Cover/Les preuves scientifiques d-une vie après la mort.png",
+        "old-price": 1106.04,
+        "new-price": 233.59
+    },
+    {
+        "id":10,
+        "title": "Types de personnalité",
+        "author": "",
+        "description": "",
+        "label": "",
+        "category": "Développement personnel",
+        "cover": "../../Book_Cover/Comprendre les types de personnalité.png",
+        "old-price": 2951.31,
+        "new-price": 1918.42
+    },
+    {
+        "id":11,
+        "title": "Pouvoir illimité",
+        "author": "Anthony Robbins",
+        "description": "",
+        "label": "",
+        "category": "Développement personnel",
+        "cover": "../../Book_Cover/Pouvoir illimité.png",
+        "old-price": 1800.86,
+        "new-price": 1170.56
+    },
+    {
+        "id":12,
+        "title": "Personnalité plus",
+        "author": "Florence Littauer",
+        "description": "",
+        "label": "Vente",
+        "category": "Développement personnel",
+        "cover": "../../Book_Cover/Personnalité plus.png",
+        "old-price": 2595.84,
+        "new-price": 1687.30
+    },
+    {
+        "id":13,
+        "title": "Les mondes subtils",
+        "author": "Serge Boutboul",
+        "description": "",
+        "label": "Vente",
+        "category": "Spiritualités",
+        "cover": "../../Book_Cover/Les mondes subtils.png",
+        "old-price": 2851.25,
+        "new-price": 1853.31
+    },
+    {
+        "id":13,
+        "title": "Les lois de la nature humaine",
+        "author": "Robert Greene",
+        "description": "",
+        "label": "Vente",
+        "category": "Développement personnel",
+        "cover": "../../Book_Cover/Les lois de la nature humaine.png",
+        "old-price": 2851.25,
+        "new-price": 1853.31
+    }
+]

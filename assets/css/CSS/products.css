@@ -1,0 +1,124 @@
+.book-format {
+  font-size: small;
+}
+
+.book-display {
+  transition: transform 0.3s ease;
+  background-color: #e0e0e0;
+  border-radius: 10px;
+  filter: drop-shadow(0 10px 20px #0009);
+}
+
+.book-display:hover {
+  transform: scale(0.9);
+}
+
+.addCart {
+  overflow: hidden;
+  transition: transform 0.3s ease;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.addCart:hover {
+  transform: scale(1.07);
+  transition: transform 0.3s ease-in-out;
+}
+
+.old-price {
+  text-decoration: line-through;
+  color: #888;
+  margin-right: 5px;
+}
+
+.price {
+  color: #000;
+  margin-left: 5px;
+}
+
+.rounded-button {
+  border-radius: 10px;
+}
+
+.rounded-image {
+  border-radius: 20px;
+}
+
+.listProduct {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+.listProduct .item img {
+  width: 90%;
+  align-items: center;
+  cursor: pointer;
+}
+
+.listProduct .item {
+  background-color: #eeeee6;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.listProduct .item h2 {
+  font-weight: 400;
+  font-size: medium;
+}
+
+.listProduct .item .old-price {
+  font-size: small;
+}
+
+.listProduct .item .new-price {
+font-family: monospace;
+font-size: larger;
+color: #000;
+}
+
+.listProduct .item button {
+  background-color: #000;
+  color: #eee;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+
+@media screen and (max-width: 992px) {
+  .listProduct {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .listProduct {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.product-container {
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+/* Style for the product image inside containers with the "product-container" class */
+
+.product-container img {
+  max-width: 100%;
+  height: fit-content;
+  aspect-ratio: 0.75;
+  cursor: pointer;
+}
+.category-name,.book-category {
+  font-family: lobsterregular;
+  color: #000000;
+}
+.category-hint {
+  font-size: larger;
+  font-family: lobsterregular;
+}

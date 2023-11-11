@@ -1,0 +1,168 @@
+#navbar {
+  position: fixed;
+  top: 0%;
+  width: 100%;
+  display: block;
+  transition: top 0.3s;
+  z-index: 0;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#myHeader {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.search-bar {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  margin-left: 15px;
+  margin-right: 15px;
+  font-size: 17px;
+  
+}
+
+#search_bar {
+  width: 100%;
+  margin-right: 15px;
+  border-radius: 20px;
+  border: 1mm;
+  z-index: 0;
+}
+
+.fa-search {
+  transition: 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.fa-search:hover {
+  color: #abcef4;
+}
+
+.logo-container {
+  text-align: center;
+  width: 200px;
+  height: 100px;
+}
+
+/* Style the logo link */
+
+.logo-link {
+  display: block;
+  width: 100px;
+  height: 100px;
+  background-color: #dde5ee;
+  border-radius: 15px;
+  transition: background-color 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
+/* Style the logo image */
+
+.logo-image {
+  max-width: 80%;
+  max-height: 80%;
+  display: block;
+}
+
+/* Hover effect for the button */
+
+.logo-link:hover {
+  background-color: #abcef4;
+}
+
+.logo {
+  max-width: 100px;
+  max-height: 50px;
+}
+
+/* Define a class for your styled button */
+
+.button-styled {
+  background-color: #20202C;
+  color: white;
+  padding: px 20px;
+  border: none;
+  border-radius: 0px 10px 10px 0;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+
+.button-styled:hover {
+  background-color: rgb(8, 31, 50);
+}
+
+.bars-styled {
+  background-color: #262b2f;
+  color: white;
+  padding: px 50px;
+  border: none;
+  border-radius: 10px 0 0 10px;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+
+/* Initial styles for the login icon */
+
+#login-icon {
+  cursor: pointer;
+  transition: background-color 0.5s;
+  transition: color 0.5s;
+}
+
+/* Hover styles for the login icon */
+
+#login-icon:hover {
+  background-color: #b7b7b7;
+  color: #fff;
+  border-radius: 5px;
+}
+
+.icon-cart {
+  transition: color 0.3s;
+  cursor: pointer;
+}
+
+/* Add hover animations to the cart and search icons */
+
+.icon-cart:hover {
+  color: #aaaaaa;
+}
+
+.logbutton {
+  display: none;
+  position: absolute;
+  background-color: #ffffff;
+  transition: background-color 0.3s, border-radius 0.3s;
+  border-radius: 0 10px 10px 10px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  cursor: pointer;
+  color: rgb(0, 0, 0);
+  padding: 12px 16px;
+  text-decoration: underline;
+  font-size: small;
+}
+
+.logbutton:hover {
+  background-color: #b7b7b7;
+  color: rgb(0, 0, 0);
+  border-radius: 0 20px 20px 20px;
+}
+
+.dropdown:hover .logbutton {
+  display: block;
+}
+
